@@ -49,10 +49,10 @@ export default function Home() {
             <Link href="https://www.linkedin.com/in/kay-alvaer/">
               <AiFillLinkedin />
             </Link>
-            <Link href="https://www.linkedin.com/in/kay-alvaer/">
+            <Link href="https://www.youtube.com">
               <AiFillYoutube />
             </Link>
-            <Link href="https://www.linkedin.com/in/kay-alvaer/">
+            <Link href="https://www.twitter.com">
               <AiFillTwitterCircle />
             </Link>
           </div>
@@ -111,7 +111,7 @@ export default function Home() {
       <h3 className="my-28 text-3xl py-1 text-primary">Services I Offer</h3>
       <div className="w-full text-primaryDark mt-20 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
-          href="#"
+          href="https://www.linkedin.com/in/kay-alvaer/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
