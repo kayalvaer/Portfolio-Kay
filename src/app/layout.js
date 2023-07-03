@@ -17,7 +17,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Nav />
       <body className={code.className}>{children}</body>
     </html>
   );

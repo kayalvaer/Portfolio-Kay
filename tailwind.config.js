@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  lightMode: "class",
+  //  lightMode: "class",
 
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
