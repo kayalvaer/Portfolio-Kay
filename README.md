@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayalvaer&" alt="kayalvaer" /></p>
 
-A simple overview of the use/purpose of the project.
+# A simple overview of the use/purpose of the project.
 
 ## Description
 
